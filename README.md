@@ -47,19 +47,15 @@ hw1_p2
 | test.npy
 | train_labels.npy
 
-rebl-AMR
-60
-│   README.md
-61
-│   CMakeLists.txt    
-62
-│   LICENSE
-63
-│   config.sh
-64
-│
-65
-└─── CMakeModules
+
+.
+├── build                   # Compiled files (alternatively `dist`)
+├── docs                    # Documentation files (alternatively `doc`)
+├── src                     # Source files (alternatively `lib` or `app`)
+├── test                    # Automated tests (alternatively `spec` or `tests`)
+├── tools                   # Tools and utilities
+├── LICENSE
+└── README.md
 
 
 ## HYPER-PARAMATERS 
