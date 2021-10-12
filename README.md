@@ -38,16 +38,15 @@ hw1_p2
 |	test.py
 |	
 |__saved_model
-|	.pt 
-|
-|__output
-|	.PNG 
+	.pt
+__output
+|	.PNG
 |
 |__data
 |
 |	train.npy
 |	train_labels.npy
-|	dev.npy
+| 	dev.npy
 |	dev_labels.npy
 |	test.npy
 |	train_labels.npy
