@@ -25,7 +25,7 @@ In this work, a simple feed-forward neural network (MLP) is used with ReLU activ
 ## DIRECTORY STRUCTURE
 
 some directories are currently empty (i.e, saved_model, output, data). only data needs to be filled and the rest will be created automically if they do not exit. 
-"""
+```
 hw1_p2
 | README.txt
 | __init__.py
@@ -46,7 +46,7 @@ hw1_p2
 | dev_labels.npy
 | test.npy
 | train_labels.npy
-"""
+```
 ## HYPER-PARAMATERS 
 
 Hyperparameters are set in configs.py 
