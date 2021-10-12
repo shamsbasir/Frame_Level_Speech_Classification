@@ -67,6 +67,7 @@ Hyperparameters are set in configs.py
 2) inside train.py, change the model_size. (my best model is deep6_MLP, take a look at configs.py)
 3) python train.py
 
+
 ### TESTING
 1) pick the best saved model from saved_model
 2) update the path to the model insdie test.py
