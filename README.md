@@ -47,17 +47,6 @@ hw1_p2
 | test.npy
 | train_labels.npy
 
-
-.
-├── build                   # Compiled files (alternatively `dist`)
-├── docs                    # Documentation files (alternatively `doc`)
-├── src                     # Source files (alternatively `lib` or `app`)
-├── test                    # Automated tests (alternatively `spec` or `tests`)
-├── tools                   # Tools and utilities
-├── LICENSE
-└── README.md
-
-
 ## HYPER-PARAMATERS 
 
 Hyperparameters are set in configs.py 
