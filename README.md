@@ -79,7 +79,7 @@ Hyperparameters are set in configs.py
 1) python test.py
 
 ## Questions?
-sbasir@andrew.cmu.edu
+shamsbasir@gmail.com
 
 Note: some of the codes are built on top the functions provided in the recitions 
 
