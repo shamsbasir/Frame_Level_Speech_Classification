@@ -25,34 +25,27 @@ In this work, a simple feed-forward neural network (MLP) is used with ReLU activ
 ## DIRECTORY STRUCTURE
 
 some directories are currently empty (i.e, saved_model, output, data). only data needs to be filled and the rest will be created automically if they do not exit. 
-rebl-AMR
-│   README.md
-│   CMakeLists.txt    
-│   LICENSE
-│   config.sh
-│
-└─── CMakeModules
 
 hw1_p2
-|README.txt
-|__init__.py
-|configs.py
-|data_utility.py
-|plot_utility.py
-|model.py
-|train.py
-|test.py	
-|__saved_model
+| README.txt
+| __init__.py
+| configs.py
+| data_utility.py
+| plot_utility.py
+| model.py
+| train.py
+| test.py	
+|_saved_model
 	.pt
-__output
-|.PNG
+|__output
+| .PNG
 |__data
-|train.npy
-|train_labels.npy
-|dev.npy
-|dev_labels.npy
-|test.npy
-|train_labels.npy
+| train.npy
+| train_labels.npy
+| dev.npy
+| dev_labels.npy
+| test.npy
+| train_labels.npy
 
 ## HYPER-PARAMATERS 
 
